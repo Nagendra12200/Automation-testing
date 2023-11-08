@@ -6,6 +6,6 @@ public class demo02 {
 		// TODO Auto-generated method stub
 		// System.setProperty("webdriver.edge.driver","C:\\Users\\bandi\\Downloads\\edgedriver_win32\\msedgedriver.exe");
 		System.out.println("Hello github");
-		System.out.println("eddited by vamshi");
+		System.out.println("commited by nagnedra");
 	}
 }
